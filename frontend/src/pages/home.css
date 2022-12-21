@@ -1,0 +1,11 @@
+#homemain{
+     height: 600px;
+     width: auto;
+     position: relative;
+}
+
+#homeinfo{
+     position: absolute;
+     left:200px;
+     bottom: 30px;
+}
